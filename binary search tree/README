@@ -1,1 +1,5 @@
 Binary Search Tree that checks for and deletes duplicate values
+
+Run "make" command, which produces "bst.exe" output file
+
+Test out sample input with "bst.exe < input.txt" command
